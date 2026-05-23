@@ -10,6 +10,12 @@ $datas = [
         "department" => "Software Engineering",    
     ],
 
+    [
+        "matric_no" => "CMP2307621",
+        "name" => "Anthony Ruth Chigozie",
+        "department" => "Software Engineering",    
+    ],
+
     //  add your arrays here
 ];
 
